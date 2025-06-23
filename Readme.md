@@ -44,20 +44,59 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Postman" 
+    title="Postman"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"         
 />
+/>
+<img 
+    align="left" 
+    alt="GitLab" 
+    title="GitLab"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"         
+/>
+/>
+<img 
+    align="left" 
+    alt="Cypress" 
+    title="Cypress"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg"                
+/>
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"                   
+/>
+/>
+<img 
+    align="left" 
+    alt="Selenium" 
+    title="Selenium"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"                     
+/>
+/>
+<img 
+    align="left" 
+    alt="Playwright" 
+    title="Playwright"
+    width="30px"
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
+          
+
 
 <br/> 
 <br/>
