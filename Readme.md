@@ -42,6 +42,7 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Postman" 
@@ -50,7 +51,7 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"         
 />
-/>
+
 <img 
     align="left" 
     alt="GitLab" 
@@ -59,16 +60,16 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"         
 />
-/>
+
 <img 
     align="left" 
     alt="Cypress" 
     title="Cypress"
     width="30px"
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain-wordmark.svg"                
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"                       
 />
-/>
+
 <img 
     align="left" 
     alt="SQL" 
@@ -77,7 +78,7 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"                   
 />
-/>
+
 <img 
     align="left" 
     alt="Selenium" 
@@ -86,7 +87,7 @@ Atualmente, estou cursando Engenheiro de Qualidade de Software pela EBAC e me pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"                     
 />
-/>
+
 <img 
     align="left" 
     alt="Playwright" 
