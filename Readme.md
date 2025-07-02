@@ -1,15 +1,16 @@
 # 👨🏾‍💻Maurício Feoli
 
-**`Garantia da Qualidade | Automação de Testes | Testes de API`**
+**`Garantia da Qualidade de Software | Automação de Testes | Testes de API`**
 
 Desde o início da minha jornada em tecnologia, encontrei na Engenharia de Qualidade de Software mais do que uma carreira: um campo onde posso contribuir ativamente para entregar produtos melhores e mais confiáveis.
+
 Com mais de 1 ano de experiência prática, atuei com testes manuais, automação e desenvolvimento de APIs, sempre com foco em colaborar com times multidisciplinares e contribuir para produtos mais confiáveis e eficientes. Ao longo dessa jornada, desenvolvi habilidades em ferramentas como Postman, SoapUI, ALM, Octane, Git e GitLab, além de aplicar metodologias ágeis como Scrum e Kanban no meu dia a dia.
 
 Antes disso, atuei quase 7 anos como profissional autônomo em Social Media, onde desenvolvi competências importantes em gestão de projetos, automação de processos e análise de métricas, que hoje complementam minha atuação em QA com uma visão estratégica e foco em resultados.
 
-Atualmente, curso Engenharia de Qualidade de Software pela EBAC e me preparo para a certificação CTFL (Certified Tester Foundation Level), ampliando meu domínio técnico em QA, automação de testes com Selenium e Cypress, testes de performance com JMeter e boas práticas em ambientes VDI e cloud.
+Atualmente, curso Engenharia de Qualidade de Software pela EBAC e me preparo para a certificação CTFL (Certified Tester Foundation Level), ampliando meu domínio técnico em QA, automação de testes com Selenium e Cypress, testes de performance e em ambientes VDI e cloud.
 
-Minha trajetória também passou por áreas como projetos interinstitucionais e PMO, o que fortaleceu minha visão estratégica, organização e capacidade de lidar com prazos, pessoas e indicadores de desempenho — habilidades que hoje aplico com naturalidade na engenharia de testes.
+Minha trajetória também passou por áreas como PMO, o que fortaleceu minha visão estratégica, organização e capacidade de lidar com prazos, pessoas e indicadores de desempenho.
 
 Meu objetivo é claro: ser uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, atuando com responsabilidade, curiosidade e trabalho em equipe!
 
