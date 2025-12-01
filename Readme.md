@@ -3,9 +3,7 @@
 **`Garantia da Qualidade de Software | Automação de Testes | Testes de API`**
 
 desde o início da minha jornada em tecnologia, encontrei na Engenharia de Qualidade de Software mais do que uma carreira: um campo onde posso contribuir ativamente para entregar produtos melhores e mais confiáveis.
-
-atualmente, curso Engenharia de Qualidade de Software pela EBAC e me preparo para a certificação CTFL (Certified Tester Foundation Level), ampliando meu domínio técnico em QA, automação de testes com Selenium e Cypress, testes de performance e em ambientes VDI e cloud.
-
+atualmente, curso Engenharia de Qualidade de Software pela EBAC e me preparo para a certificação CTFL (Certified Tester Foundation Level), ampliando meu domínio técnico em QA.
 meu objetivo é ser uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, atuando com responsabilidade e trabalho em equipe!
 
 ### 🤖 linguagens e tecnologias
