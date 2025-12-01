@@ -16,9 +16,9 @@ Meu objetivo é ser uma peça-chave na entrega de soluções mais estáveis, fun
 
 ## 🛠️  Tools and Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress&titles=true,git&theme=light)
-[![My Skills](https://skillicons.dev/icons?i=,postman,,jenkins,mysql,docker,github,githubactions,git&theme=light )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,mysql,docker,github,githubactions,git&theme=light )](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=js,py&theme=light )](https://skillicons.dev)  
 
 </div>
 
