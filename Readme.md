@@ -16,27 +16,16 @@ Meu objetivo é ser uma peça-chave na entrega de soluções mais estáveis, fun
 
 ## 🛠️  Tools and Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress&titles=true,git&theme=light)
-[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,mysql,docker,github,githubactions,git&theme=light )](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=js,py&theme=light )](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=postman,jenkins,bitbucket,mysql,docker,github,git,gitlab,js,py,rabbitmq&theme=light )](https://skillicons.dev)
 
 </div>
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofeoli&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+## 🌐 Connect with me
+<div>
+  <a href="mailto:mauriciofeol@outlook.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-404040?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/mauriciofeoli/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/11952736457" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/WhatsApp-2c9b55?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</div>
 
