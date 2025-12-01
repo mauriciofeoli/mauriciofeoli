@@ -10,101 +10,17 @@ Atualmente, curso Engenharia de Qualidade de Software pela EBAC e me preparo par
 
 Meu objetivo é ser uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, atuando com responsabilidade e trabalho em equipe!
 
-
-Linguagens: HTML, CSS, JavaScript, SQL
-Ferramentas: ALM, Octane, Postman, SoapUI, Git, GitHub, JMeter, Apigee
-Metodologias: Scrum, Kanban, Ágil
-Tecnologias: Selenium, Cypress, CI/CD, APIs REST
-Normas e Boas Práticas: WCAG (Acessibilidade Web).
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+</div>
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+## 🛠️  Tools and Languages
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=playwright,cypress&titles=true,git&theme=light)
+[![My Skills](https://skillicons.dev/icons?i=,postman,,jenkins,mysql,docker,github,githubactions,git&theme=light )](https://skillicons.dev)
 
-<img 
-    align="left" 
-    alt="Postman" 
-    title="Postman"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"         
-/>
+[![My Skills](https://skillicons.dev/icons?i=js,py,java,cs,dotnet&theme=light )](https://skillicons.dev)  
 
-<img 
-    align="left" 
-    alt="GitLab" 
-    title="GitLab"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original-wordmark.svg"         
-/>
-
-<img 
-    align="left" 
-    alt="Cypress" 
-    title="Cypress"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg"                       
-/>
-
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg"                   
-/>
-
-
-<img 
-    align="left" 
-    alt="Playwright" 
-    title="Playwright"
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
-/>
-          
-
-
-<br/> 
-<br/>
+</div>
 
 ### 📊 Estatísticas
 
