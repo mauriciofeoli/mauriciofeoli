@@ -1,13 +1,9 @@
-# 👨🏾‍💻maurício feoli
+# 👨🏾‍💻Maurício feoli
 
-**`garantia da Qualidade de Software | automação de Testes | testes de API`**
+**`Garantia da Qualidade de Software | Automação de Testes | Aestes de API`**
 </div>
 
-desde o início da minha jornada em tecnologia, encontrei na Engenharia de Qualidade de Software mais do que uma carreira, um espaço onde posso contribuir para entregar produtos melhores e mais confiáveis.
-
-atualmente curso Engenharia de Qualidade de Software pela EBAC e estou me preparando para a certificação CTFL, ampliando meu domínio técnico em QA.
-
-meu objetivo é atuar como uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, sempre com responsabilidade e trabalho em equipe.
+Meu objetivo é atuar como uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, sempre com responsabilidade e trabalho em equipe.
 
 </div>
 
