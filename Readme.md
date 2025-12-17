@@ -3,7 +3,11 @@
 **`Garantia da Qualidade de Software | Automação de Testes | Aestes de API`**
 </div>
 
-Meu objetivo é atuar como uma peça-chave na entrega de soluções mais estáveis, funcionais e seguras, sempre com responsabilidade e trabalho em equipe.
+QA Engineer com mais de 3 anos de experiência prática em testes manuais, automação de testes e atuando em ambientes ágeis (Scrum e Kanban).
+
+Experiência com Postman, SoapUI, Cypress, JMeter, Apigee, Git/GitLab, ALM e Octane, aplicando boas práticas de CI/CD e validações em ambientes Cloud.
+
+Atualmente curso Engenharia de Qualidade de Software (EBAC) e me preparo para a certificação CTFL, com foco em automação, performance e integração contínua.
 
 </div>
 
