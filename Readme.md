@@ -40,7 +40,7 @@ QA Engineer com mais de **3 anos de experiência** em automação de testes e qu
 ## Tecnologias & Ferramentas
 
 #### Testes & Automação
-[![My Skills](https://skillicons.dev/icons?i=cypress,playwright,postman,jenkins&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cypress,postman,jenkins&theme=light)](https://skillicons.dev)
 
 #### Versionamento & DevOps
 [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker&theme=light)](https://skillicons.dev)
