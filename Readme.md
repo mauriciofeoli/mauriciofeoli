@@ -1,7 +1,6 @@
 <div align="center">
 
 # Maurício Feoli
-
 **`QA Engineer · Automação de Testes · IA aplicada à Qualidade`**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciofeoli/)
@@ -49,17 +48,15 @@ QA Engineer com mais de **3 anos de experiência** em automação de testes e qu
 [![My Skills](https://skillicons.dev/icons?i=js,py,mysql&theme=light)](https://skillicons.dev)
 
 #### Outras Ferramentas
-`JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ`
+`JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ` `SQL e noSQL` `GraphQL` `PactumJS` `Playwright` `Pytest` `Selenium`
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=dark&hide_border=true&locale=pt-br)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofeoli&layout=compact&theme=dark&hide_border=true&locale=pt-br)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=dark&hide_border=true&locale=pt-br" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofeoli&layout=compact&theme=dark&hide_border=true&locale=pt-br" />
 </div>
 
 ---
