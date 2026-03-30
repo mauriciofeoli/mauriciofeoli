@@ -51,11 +51,11 @@ QA Engineer com mais de **3 anos de experiência** em automação de testes e qu
 `JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ` `SQL e noSQL` `GraphQL` `PactumJS` `Playwright` `Pytest` `Selenium`
 
 ---
-
+*Qualidade não é um ato, é um hábito.*
 ---
 
 <div align="center">
 
-*Qualidade não é um ato, é um hábito.*
+*Jesus vive*
 
 </div>
