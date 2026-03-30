@@ -52,13 +52,6 @@ QA Engineer com mais de **3 anos de experiência** em automação de testes e qu
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=dark&hide_border=true&locale=pt-br" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofeoli&layout=compact&theme=dark&hide_border=true&locale=pt-br" />
-</div>
-
 ---
 
 <div align="center">
