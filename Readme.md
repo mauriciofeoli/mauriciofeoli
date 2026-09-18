@@ -49,10 +49,6 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 
 `JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ` `SQL` `NoSQL` `GraphQL` `PactumJS`
 
-## Atividade
-
-As estatísticas dinâmicas foram removidas para evitar imagens instáveis ou quebradas no carregamento do GitHub. A atividade do perfil continua disponível na aba **Overview** do GitHub.
-
 <div align="center">
 
 *Jesus vive* | *Qualidade não é um ato, é um hábito.*
