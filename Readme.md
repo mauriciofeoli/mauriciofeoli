@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0ea5e9&height=180&section=header&text=Maurício%20Feoli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20AI%20Quality%20Engineering&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Feoli" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=3200&pause=900&color=0F766E&center=true&vCenter=true&width=650&lines=Transformando+qualidade+em+confiança.;Automação%2C+IA+e+curiosidade+em+produção." alt="Animação de apresentação" /></a>
+<p><strong>Transformando qualidade em confiança com automação, IA e curiosidade.</strong></p>
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -39,7 +39,7 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 
 **Testes & automação**
 
-[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/)
 
 **DevOps & dados**
 
