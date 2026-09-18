@@ -1,59 +1,107 @@
 <div align="center">
 
-# Maurício Feoli
-**`QA Engineer · Automação de Testes · IA aplicada à Qualidade`**
+# ✦ MAURÍCIO FEOLI
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mauriciofeoli/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-2c9b55?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/11952736457)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mauriciofeoli)
+### `QA ENGINEER` · `AUTOMAÇÃO` · `IA APLICADA À QUALIDADE`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:1e3a8a,75:f97316,100:0f172a&height=190&section=header&text=NEXT%20LEVEL%20QUALITY&fontSize=38&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=Testes%20inteligentes%20para%20produtos%20confi%C3%A1veis&descAlignY=62&descSize=15" width="100%" alt="Banner com energia visual inspirada em Dragon Ball Z" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=38bdf8)](https://www.linkedin.com/in/mauriciofeoli/)
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=fbbf24)](https://github.com/mauriciofeoli)
+![São Paulo](https://img.shields.io/badge/S%C3%A3o%20Paulo%2C%20Brasil-0f172a?style=flat-square&logo=googlemaps&logoColor=f87171)
+
+<br />
+<sub>Jesus vive.</sub>
 
 </div>
 
----
+## Arco atual
 
-## Sobre mim
+Sou **QA Engineer na NTT Data**, com mais de três anos de experiência em qualidade de software, automação de testes e melhoria contínua.
 
-QA Engineer com mais de **3 anos de experiência** em automação de testes e qualidade de software. Consultor na **NTT Data**, atuando em iniciativas para **Santander** e **Getnet**.
+Atuo em iniciativas para **Santander e Getnet**, conectando estratégia de qualidade, investigação de problemas e automação para tornar produtos digitais mais confiáveis. Meu foco atual está na aplicação de **IA em QA**, incluindo avaliação de LLMs, automação inteligente, agentes autônomos e MCP.
 
-- Automação com **Cypress**, testes de API com **Postman** e **SoapUI**
-- Pipelines **CI/CD** com Jenkins e boas práticas de integração contínua
-- Gestão de qualidade com **Jira** e **Zephyr**
-- Testes de performance com **JMeter** e acessibilidade **WCAG**
-- Cursando **Engenharia de Qualidade de Software** na EBAC | Python em desenvolvimento
+> **Princípio de trabalho:** qualidade não é uma etapa no fim do processo. É uma decisão construída em cada etapa.
 
----
+## Técnicas dominadas
 
-## IA aplicada à Qualidade de Software
+| Área | Aplicação |
+| --- | --- |
+| **Automação de testes** | Criação e manutenção de cenários confiáveis para web, APIs e fluxos críticos. |
+| **Qualidade orientada por risco** | Investigação, testes exploratórios, acessibilidade e prevenção de regressões. |
+| **IA aplicada à qualidade** | Avaliação de LLMs, métricas para sistemas de linguagem, agentes autônomos e MCP. |
+| **Entrega contínua** | Integração de qualidade ao fluxo de desenvolvimento com pipelines e colaboração entre times. |
 
-Área em que estou aprofundando atualmente:
+## Arsenal técnico
 
-| Tema | Descrição |
-|------|-----------|
-| Avaliação de LLMs | Testes e métricas para sistemas baseados em modelos de linguagem |
-| Automação inteligente | Aplicação de IA para otimizar estratégias de testes |
-| Agentes de IA | Construção de agentes autônomos para QA |
-| MCP | Model Context Protocol — integração de contexto em pipelines de IA |
+### Automação e testes
 
----
+![Cypress](https://img.shields.io/badge/Cypress-172554?style=flat-square&logo=cypress&logoColor=69d3a7)
+![Playwright](https://img.shields.io/badge/Playwright-172554?style=flat-square&logo=playwright&logoColor=45ba4b)
+![Pytest](https://img.shields.io/badge/Pytest-172554?style=flat-square&logo=pytest&logoColor=ffd343)
+![Selenium](https://img.shields.io/badge/Selenium-172554?style=flat-square&logo=selenium&logoColor=43b02a)
+![Postman](https://img.shields.io/badge/Postman-172554?style=flat-square&logo=postman&logoColor=ff6c37)
+![SoapUI](https://img.shields.io/badge/SoapUI-172554?style=flat-square&logoColor=ffffff)
 
-## Tecnologias & Ferramentas
+### Engenharia e entrega
 
-#### Testes & Automação
-[![My Skills](https://skillicons.dev/icons?i=cypress,postman,jenkins&theme=light)](https://skillicons.dev)
+![JavaScript](https://img.shields.io/badge/JavaScript-172554?style=flat-square&logo=javascript&logoColor=f7df1e)
+![Python](https://img.shields.io/badge/Python-172554?style=flat-square&logo=python&logoColor=3776ab)
+![Jenkins](https://img.shields.io/badge/Jenkins-172554?style=flat-square&logo=jenkins&logoColor=d24939)
+![Docker](https://img.shields.io/badge/Docker-172554?style=flat-square&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-172554?style=flat-square&logo=git&logoColor=f05032)
+![GraphQL](https://img.shields.io/badge/GraphQL-172554?style=flat-square&logo=graphql&logoColor=e10098)
 
-#### Versionamento & DevOps
-[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker&theme=light)](https://skillicons.dev)
+### Qualidade, dados e performance
 
-#### Linguagens & Banco de Dados
-[![My Skills](https://skillicons.dev/icons?i=js,py,mysql&theme=light)](https://skillicons.dev)
+`JMeter` · `PactumJS` · `MySQL` · `SQL` · `NoSQL` · `RabbitMQ` · `Apigee` · `Jira` · `Zephyr` · `WCAG`
 
-#### Outras Ferramentas
-`JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ` `SQL e noSQL` `GraphQL` `PactumJS` `Playwright` `Pytest` `Selenium`
+## Batalhas em destaque
 
----
+### [zoiou-monitor](https://github.com/mauriciofeoli/zoiou-monitor)
+
+Projeto autoral voltado à observabilidade e acompanhamento de informações, representando a aplicação prática de tecnologia para tornar sinais importantes mais visíveis.
+
+**Contribuição em destaque:** investigação de requisitos, validação de fluxos e evolução da qualidade do produto.
+
+### [exercicios_ebac](https://github.com/mauriciofeoli/exercicios_ebac)
+
+Repositório de exercícios da formação em Engenharia de Qualidade de Software da EBAC, reunindo prática de automação, testes e fundamentos de qualidade.
+
+**Contribuição em destaque:** construção progressiva de repertório técnico e aplicação dos conceitos em projetos práticos.
+
+## Jornada de evolução
+
+```text
+QA ENGINEER · NTT DATA
+Atuação em iniciativas para Santander e Getnet.
+Automação, qualidade de software e colaboração técnica.
+
+IA APLICADA À QUALIDADE
+Avaliação de LLMs, métricas para sistemas de linguagem,
+agentes autônomos para QA e Model Context Protocol.
+
+FORMAÇÃO · EBAC
+Engenharia de Qualidade de Software em andamento.
+Próximo foco de desenvolvimento: Python.
+```
+
+## Próximo nível
+
+- Aprofundar Python para ampliar automações e ferramentas internas de qualidade.
+- Explorar aplicações práticas de IA em estratégias de teste e avaliação de sistemas de linguagem.
+- Evoluir projetos que aproximem observabilidade, automação e decisões orientadas por risco.
+
+## Vamos conversar?
+
+Estou aberto a conversas sobre **qualidade de software, automação, IA aplicada a QA, acessibilidade e engenharia de testes**.
 
 <div align="center">
 
-*Jesus vive* | *Qualidade não é um ato, é um hábito.*
+[**LinkedIn**](https://www.linkedin.com/in/mauriciofeoli/) · [**GitHub**](https://github.com/mauriciofeoli)
+
+<br />
+
+<sub>Disciplina no treinamento. Precisão na execução. Evolução contínua.</sub>
 
 </div>
