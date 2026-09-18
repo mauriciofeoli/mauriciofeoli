@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:0ea5e9&height=180&section=header&text=Maurício%20Feoli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20AI%20Quality%20Engineering&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Feoli" />
-
-<p><strong>Transformando qualidade em confiança com automação, IA e curiosidade.</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=180&section=header&text=Maurício%20Feoli&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%7C%20AI%20Quality%20Engineering&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Feoli" />
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
