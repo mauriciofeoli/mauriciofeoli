@@ -39,11 +39,11 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 
 **Testes & automação**
 
-[![Skills](https://skillicons.dev/icons?i=cypress,playwright,postman,selenium,pytest&theme=light)](https://skillicons.dev)
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)](https://www.selenium.dev/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/)
 
 **DevOps & dados**
 
-[![Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket,docker,jenkins,mysql&theme=light)](https://skillicons.dev)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauriciofeoli) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
 **Também trabalho com**
 
@@ -51,14 +51,7 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 
 ## Atividade
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&hide_border=true&title_color=0f766e&icon_color=0ea5e9&text_color=334155&bg_color=ffffff" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofeoli&layout=compact&hide_border=true&title_color=0f766e&text_color=334155&bg_color=ffffff" alt="Linguagens mais usadas" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mauriciofeoli&hide_border=true&ring=0f766e&fire=0ea5e9&currStreakLabel=0f766e&background=ffffff" alt="Sequência de contribuições" />
-</div>
+As estatísticas dinâmicas foram removidas para evitar imagens instáveis ou quebradas no carregamento do GitHub. A atividade do perfil continua disponível na aba **Overview** do GitHub.
 
 <div align="center">
 
