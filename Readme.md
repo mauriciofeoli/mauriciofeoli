@@ -24,14 +24,7 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 - Performance com **JMeter** e acessibilidade com **WCAG**
 - Cursando **Engenharia de Qualidade de Software** na EBAC
 
-## Em foco: IA aplicada à qualidade
-
-| Frente | O que estou explorando |
-| :--- | :--- |
-| Avaliação de LLMs | Testes, métricas e confiabilidade de sistemas baseados em linguagem |
-| Automação inteligente | IA para otimizar estratégias e cenários de teste |
-| Agentes de IA | Agentes autônomos para apoiar fluxos de QA |
-| MCP | Contexto e integração em pipelines de IA |
+Atualmente, também estudo a aplicação de IA à qualidade de software, explorando avaliação de LLMs, automação inteligente, agentes de IA e integração de contexto com MCP.
 
 ## Stack
 
