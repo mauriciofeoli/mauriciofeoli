@@ -4,7 +4,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://wa.me/11952736457"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
   <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/github/followers/mauriciofeoli?label=Seguidores&style=flat-square&logo=github&color=181717" alt="Seguidores no GitHub" /></a>
 </p>
 
@@ -12,7 +11,7 @@
 
 ## Sobre mim
 
-Sou QA Engineer com mais de **3 anos de experiência** em automação de testes e qualidade de software. Na **NTT Data**, atuo em iniciativas para **Santander** e **Getnet**, conectando estratégia, automação e entrega contínua.
+QA Engineer com mais de 4 anos de experiência em automação de testes e qualidade de software, atuando como consultor na NTT Data em iniciativas para Santander e Getnet.
 
 ```text
 Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
