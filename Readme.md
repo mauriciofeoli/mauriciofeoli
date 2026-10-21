@@ -21,7 +21,7 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 - Pipelines **CI/CD** com Jenkins e práticas de integração contínua
 - Gestão de qualidade com **Jira** e **Zephyr**
 - Performance com **JMeter** e acessibilidade com **WCAG**
-- Formação em **Engenharia de Qualidade de Software** pela EBAC (2026)
+- Formação em **Engenharia de Qualidade de Software** pela EBAC
 
 Atualmente, também estudo a aplicação de IA à qualidade de software, explorando avaliação de LLMs, automação inteligente, agentes de IA e integração de contexto com MCP.
 
