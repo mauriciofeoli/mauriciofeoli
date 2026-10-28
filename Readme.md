@@ -39,6 +39,16 @@ Atualmente, também estudo a aplicação de IA à qualidade de software, explora
 
 `JMeter` `SoapUI` `Apigee` `Jira` `Zephyr` `ALM` `Octane` `RabbitMQ` `SQL` `NoSQL` `GraphQL` `PactumJS`
 
+## Projetos em destaque
+
+| Projeto | O que é | Tecnologias |
+| --- | --- | --- |
+| [**TCC-EBAC-QE**](https://github.com/mauriciofeoli/TCC-EBAC-QE) | Estratégia completa de testes da loja EBAC Shop: web, API com validação de contrato, mobile iOS e performance, com pipeline no GitHub Actions e [relatórios publicados](https://mauriciofeoli.github.io/TCC-EBAC-QE/). Trabalho de conclusão do curso de Engenharia de Qualidade de Software da EBAC. | Cypress, Supertest, Joi, WebdriverIO, Appium, Sauce Labs, k6, GitHub Actions |
+| [**zoiou-monitor**](https://github.com/mauriciofeoli/zoiou-monitor) | Monitor de preços em produção ([zoiou.com](https://www.zoiou.com)): acompanha o preço de produtos todo dia e avisa pelo Telegram quando muda, com histórico e alerta de menor preço em 12 meses. | Python, FastAPI, Next.js, Supabase, Playwright, GitHub Actions |
+| [**teste-api-ebac**](https://github.com/mauriciofeoli/teste-api-ebac) | Testes automatizados de API de e-commerce, cobrindo login, produtos, cenários de sucesso, falha e regras de negócio. | Cypress, JavaScript |
+| [**teste-e2e-ebac**](https://github.com/mauriciofeoli/teste-e2e-ebac) | Testes ponta a ponta dos fluxos principais da EBAC Shop: login, cadastro, navegação e compra, com massa de dados gerada. | Cypress, JavaScript, Faker |
+| [**test-plan-jmeter**](https://github.com/mauriciofeoli/test-plan-jmeter) | Plano de teste de performance com massa de dados parametrizada em CSV. | JMeter |
+
 <div align="center">
 
 *Jesus vive* | *Qualidade não é um ato, é um hábito.*
