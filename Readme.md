@@ -24,27 +24,9 @@ Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 - Gestão de qualidade com **Jira**, **Zephyr**, **ALM** e **Octane**
 - Performance com **JMeter** e acessibilidade com **WCAG**
 - Domínio em **meios de pagamento** (adquirência, Pix, câmbio e IOF) e **telecom**
+- Formação em **Engenharia de Qualidade de Software** pela EBAC
 
 Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs, agentes de IA para geração de casos de teste e Model Context Protocol (MCP), além de Python para automação.
-
-## Experiência
-
-**QA Engineer · NTT DATA** — ago/2025 até hoje · cliente Getnet / Santander
-- UAT do projeto Crossborder/FX: web checkout, taxas de câmbio e cálculo de IOF em pagamentos internacionais.
-- 9 meses no projeto Pix (squad Plataforma de Riscos): testes de motores de risco nos fluxos de habilitação e elegibilidade.
-- Cerca de 50 cenários automatizados com Cypress, com geração de massa de dados, rodando em pipelines Jenkins e Bitbucket.
-- Testes de APIs REST e filas RabbitMQ; participação na implementação de agentes de IA para criação de casos de teste.
-
-**Quality Assurance · Spread Tecnologia** — jan/2024 a jul/2025 · cliente Claro Brasil
-- Testes manuais e de API em sistemas de telefonia com Postman e SoapUI (funcional, regressão e aceitação), com gestão do ciclo no ALM e no Octane.
-
-**Técnico Desenvolvedor Jr. · Spread Tecnologia** — fev/2023 a jan/2024 · cliente Claro Brasil
-- Proxies e exposição de APIs REST e SOAP no Apigee, a partir de documentação Swagger.
-
-## Formação
-
-- **Engenheiro de Qualidade de Software** — EBAC (ago/2025 a set/2026)
-- **Curso de Tecnologia da Informação** — OneBitCode (2023 a 2025)
 
 ## Stack
 
