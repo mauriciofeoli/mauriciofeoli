@@ -12,7 +12,9 @@
 
 ## Sobre mim
 
-QA Engineer com atuação em meios de pagamento, hoje na **NTT DATA** em projetos da **Getnet** (cliente Santander), e passagem anterior por telecom na **Claro Brasil**, com sistemas que lidam com dados sensíveis de clientes. Antes de QA, trabalhei com desenvolvimento e exposição de APIs REST/SOAP no Apigee, o que me dá uma visão técnica de integrações.
+Meu primeiro contato com testes veio antes do cargo: na Linx & Stone, eu validava o app de atendimento que a Stone usava nas filas. Depois entrei de vez na tecnologia pelo lado de quem constrói, criando e expondo APIs REST e SOAP no Apigee para a **Claro Brasil**. Dali fui para a qualidade, testando sistemas de telefonia que lidam com dados sensíveis de clientes.
+
+Hoje, na **NTT DATA**, cuido da qualidade de pagamentos da **Getnet** (Santander), em fluxos de Pix, câmbio e IOF, onde cada erro mexe com o dinheiro de alguém. Ter passado pelos dois lados, construir e testar, me faz olhar para a integração inteira: do contrato da API ao que o cliente vê na tela.
 
 ```text
 Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
