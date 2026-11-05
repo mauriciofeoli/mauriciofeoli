@@ -32,13 +32,43 @@ Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs,
 
 ## Stack
 
-**Testes & automação:** [![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)](https://appium.io/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=flat-square&logo=soapui&logoColor=white)](https://www.soapui.org/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/) [![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)](https://k6.io/) [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)<br/>
-**Linguagens:** [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)<br/>
-**CI/CD e ambientes:** [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauriciofeoli) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/features/pipelines)<br/>
-**Mensageria e integração:** [![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Apigee](https://img.shields.io/badge/Apigee-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/apigee) [![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)<br/>
-**Gestão de testes:** [![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) `Zephyr` `ALM` `Octane`<br/>
-**IA aplicada a QA:** `Avaliação de LLMs` `Agentes de IA` `Sistemas multiagentes` `MCP (Model Context Protocol)`<br/>
-**Também trabalho com:** `REST` `SOAP` `PactumJS` `SQL` `NoSQL` `WCAG` `Microsserviços` `Scrum` `Kanban`
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=soapui&logoColor=white" alt="SoapUI" />
+  <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
+  <img src="https://img.shields.io/badge/k6-000000?style=for-the-badge&logo=k6&logoColor=white" alt="k6" />
+  <img src="https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" alt="JMeter" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitLab-000000?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
+  <img src="https://img.shields.io/badge/Apigee-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Apigee" />
+  <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
+  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="https://img.shields.io/badge/Zephyr-000000?style=for-the-badge" alt="Zephyr" />
+  <img src="https://img.shields.io/badge/ALM-000000?style=for-the-badge" alt="ALM" />
+  <img src="https://img.shields.io/badge/Octane-000000?style=for-the-badge" alt="Octane" />
+  <img src="https://img.shields.io/badge/PactumJS-000000?style=for-the-badge" alt="PactumJS" />
+  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge" alt="REST" />
+  <img src="https://img.shields.io/badge/SOAP-000000?style=for-the-badge" alt="SOAP" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" alt="SQL" />
+  <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/WCAG-000000?style=for-the-badge" alt="WCAG" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
+  <img src="https://img.shields.io/badge/Agentes_de_IA-000000?style=for-the-badge" alt="Agentes de IA" />
+  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge" alt="Scrum" />
+  <img src="https://img.shields.io/badge/Kanban-000000?style=for-the-badge" alt="Kanban" />
+</p>
 
 ## Projetos em destaque
 
