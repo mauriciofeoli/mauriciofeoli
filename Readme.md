@@ -1,4 +1,7 @@
+</div>
+
 ## Olá, eu sou Mauricício  Oliveira!
+
 </div>
 
 QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para Santander e Getnet.
