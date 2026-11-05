@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-```ts
+
 ```text
 Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 const mauricio = {
@@ -25,7 +25,7 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
   expect(mauricio).toBeDefined();
 });
 ```
-```
+
 
 QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciativas para Santander e Getnet;
 
