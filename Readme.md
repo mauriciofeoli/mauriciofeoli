@@ -5,7 +5,8 @@
 </div>
 
 QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para Santander e Getnet.<br>
-`Web & API Test Automation` | `Contract & Messaging Testing` | `Payments` | `Cypress` | `Playwright` | `CI/CD` | `AI-Powered QA`
+<br>
+Web & API Test Automation | Contract & Messaging Testing | Payments | Cypress | Playwright | CI/CD | AI-Powered QA
 
 
 <p>
