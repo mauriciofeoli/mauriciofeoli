@@ -1,4 +1,4 @@
-## Olá, eu sou Mauricício  Oliveira!
+## Olá, eu sou Mauricío  Oliveira!
 
 </div>
 
