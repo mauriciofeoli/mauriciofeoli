@@ -24,17 +24,20 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
 });
 ```
 
-- Automação web, mobile e de APIs com **Cypress**, **Playwright**, **Appium**, **Postman** e **SoapUI**
-- Testes de API e contrato (**REST**, **SOAP**, **GraphQL**) com **PactumJS** e mensageria com **RabbitMQ** em microsserviços
-- Pipelines **CI/CD** com **Jenkins**, **Bitbucket Pipelines**, **GitHub Actions** e **Docker**
-- Integração de APIs com **Apigee** e **Swagger/OpenAPI**
-- Gestão de testes com **Jira**, **Zephyr**, **ALM** e **Octane**
-- Performance com **JMeter** e **k6**, acessibilidade com **WCAG**
-- Times ágeis com **Scrum** e **Kanban**
-- Domínio em **meios de pagamento** (adquirência, Pix, câmbio e IOF) e **telecom**
-- Formação em **Engenharia de Qualidade de Software** pela EBAC
+### Olá
 
-Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs, agentes de IA e sistemas multiagentes para geração de casos de teste e Model Context Protocol (MCP), além de Python para automação.
+QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciativas para Santander e Getnet;
+
+* Automação web, mobile e API: `Cypress`, `Playwright`, `Appium`, `Postman`, `SoapUI`
+* API e contrato: `REST`, `SOAP`, `PactumJS`, mensageria com `RabbitMQ`
+* CI/CD: `Jenkins`, `Bitbucket Pipelines`, `GitHub Actions`, `Docker`
+* Integração: `Apigee`, `Swagger/OpenAPI`
+* Gestão de testes: `Jira`, `Zephyr`, `ALM`, `Octane`
+* Performance e acessibilidade: `JMeter`, `k6`, `WCAG`
+* Ágil: `Scrum`, `Kanban`
+* Domínio: meios de pagamento (adquirência, Pix, câmbio e IOF) e telecom
+* Formação: Engenharia de Qualidade de Software pela EBAC
+* Estudando: IA aplicada à qualidade (LLMs, agentes, multiagentes, MCP) e Python
 
 ## Stack
 
@@ -58,7 +61,6 @@ Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs,
   <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
   <img src="https://img.shields.io/badge/Apigee-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Apigee" />
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
-  <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
