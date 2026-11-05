@@ -1,104 +1,96 @@
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=180&section=header&text=Maurício%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Oliveira" />
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mauriciofeoli/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mauriciofeoli@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
-  </a>
-  <a href="https://github.com/mauriciofeoli/promtest" target="_blank">
-    <img src="https://img.shields.io/badge/PromTest-000000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE" target="_blank">
-    <img src="https://img.shields.io/badge/TCC_EBAC-000000?style=for-the-badge&logo=cypress&logoColor=white" />
-  </a>
-</p>
-
-<br>
-
-<h2 align="center"><em>Sobre mim</em></h2>
-
-<img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
-<br/>
-
 <p>
-  Olá! <em><b>Eu sou o Maurício Oliveira</b></em>, QA Engineer com mais de 4 anos de experiência em qualidade de software, automação de testes e APIs. Trabalho com meios de pagamento (Pix, câmbio, IOF e adquirência) e hoje atuo como consultor na NTT DATA em projetos para Santander e Getnet.
+  <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+  <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/github/followers/mauriciofeoli?label=Seguidores&style=flat-square&logo=github&color=181717" alt="Seguidores no GitHub" /></a>
 </p>
 
-<p>
-  Gosto de automatizar o que é repetitivo e de levar qualidade para o pipeline e para a cloud. No momento estou aprofundando IA aplicada a QA: agentes de IA para geração de casos de teste, avaliação de sistemas com LLMs, MCP e Python para automação.
-</p>
+</div>
 
-<br clear="right"/>
+## Sobre mim
 
-```js
-describe('Maurício Oliveira', () => {
-  it('trabalha como QA na NTT DATA', ...)
-  it('testa meios de pagamento', ...)
-  it('automatiza o repetitivo', ...)
-  it('leva qualidade pro pipeline e a cloud', ...)
-})
+QA Engineer com mais de 4 anos de experiência em automação de testes e qualidade de software, atuando como consultor na NTT DATA em iniciativas para Santander e Getnet.
+
+```text
+Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
 ```
 
-<br/>
+- Automação web, mobile e de APIs com **Cypress**, **Playwright**, **Appium**, **Postman** e **SoapUI**
+- Testes de API e contrato (**REST**, **SOAP**, **GraphQL**) com **PactumJS** e mensageria com **RabbitMQ** em microsserviços
+- Pipelines **CI/CD** com **Jenkins**, **Bitbucket Pipelines**, **GitHub Actions** e **Docker**
+- Integração de APIs com **Apigee** e **Swagger/OpenAPI**
+- Gestão de testes com **Jira**, **Zephyr**, **ALM** e **Octane**
+- Performance com **JMeter** e **k6**, acessibilidade com **WCAG**
+- Times ágeis com **Scrum** e **Kanban**
+- Domínio em **meios de pagamento** (adquirência, Pix, câmbio e IOF) e **telecom**
+- Formação em **Engenharia de Qualidade de Software** pela EBAC
 
-<h2 align="center"><em>Rodando os testes</em></h2>
+Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs, agentes de IA e sistemas multiagentes para geração de casos de teste e Model Context Protocol (MCP), além de Python para automação.
 
-```
+## Stack
 
-<br/>
+**Testes & automação**
 
-<h2 align="center"><em>Experiência</em></h2>
+[![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)](https://www.cypress.io/) [![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)](https://playwright.dev/) [![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)](https://appium.io/) [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/) [![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=flat-square&logo=soapui&logoColor=white)](https://www.soapui.org/) [![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)](https://pytest.org/) [![k6](https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white)](https://k6.io/) [![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apachejmeter&logoColor=white)](https://jmeter.apache.org/)
 
-<p align="center">
-  <b>NTT DATA</b> · QA Engineer · <em>ago/2025 – atual</em><br/>
-  <sub>UAT do projeto Crossborder/FX (web checkout, taxas de câmbio e IOF) · 9 meses no Pix da Getnet (squad Plataforma de Riscos)<br/>
-  250+ casos de teste no Pix · 150+ no FX · ~50 cenários Cypress com geração de massa · +36 horas economizadas por sprint · agentes de IA para criação de casos de teste</sub>
-</p>
+**Linguagens**
 
-<p align="center">
-  <b>Spread Tecnologia</b> · Analista de QA · <em>jan/2024 – jul/2025</em><br/>
-  <sub>Qualidade para o cliente Claro Brasil (telecom), com dados sensíveis de usuários · 100+ APIs e microsserviços testados</sub>
-</p>
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 
-<p align="center">
-  <b>Spread Tecnologia</b> · Analista de Integração · <em>fev/2023 – jan/2024</em><br/>
-  <sub>APIs REST e SOAP no Apigee · 15+ APIs criadas e 30+ mantidas em produção</sub>
-</p>
+**CI/CD e ambientes**
 
-<br/>
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauriciofeoli) [![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)](https://gitlab.com/) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/features/actions) [![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)](https://www.jenkins.io/) [![Bitbucket](https://img.shields.io/badge/Bitbucket_Pipelines-0052CC?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/product/features/pipelines)
 
-<h2 align="center"><em>Tecnologias</em></h2>
+**Mensageria e integração**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
-  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
-  <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=soapui&logoColor=white" />
-  <img src="https://img.shields.io/badge/k6-000000?style=for-the-badge&logo=k6&logoColor=white" />
-  <img src="https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apigee-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white" />
-</p>
+[![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)](https://www.rabbitmq.com/) [![Apigee](https://img.shields.io/badge/Apigee-4285F4?style=flat-square&logo=googlecloud&logoColor=white)](https://cloud.google.com/apigee) [![Swagger](https://img.shields.io/badge/Swagger%2FOpenAPI-85EA2D?style=flat-square&logo=swagger&logoColor=black)](https://swagger.io/) [![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)](https://graphql.org/)
 
-<p align="center">
-  <code>REST</code> <code>SOAP</code> <code>GraphQL</code> <code>PactumJS</code> <code>Zephyr</code> <code>ALM</code> <code>Octane</code> <code>SQL</code> <code>WCAG</code> <code>MCP</code> <code>Agentes de IA</code> <code>Scrum</code> <code>Kanban</code>
-</p>
+**Gestão de testes**
 
-<br/>
+[![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)](https://www.atlassian.com/software/jira) `Zephyr` `ALM` `Octane`
+
+**IA aplicada a QA**
+
+`Avaliação de LLMs` `Agentes de IA` `Sistemas multiagentes` `MCP (Model Context Protocol)`
+
+**Também trabalho com**
+
+`REST` `SOAP` `PactumJS` `SQL` `NoSQL` `WCAG` `Microsserviços` `Scrum` `Kanban`
+
+## Projetos em destaque
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">TCC-EBAC-QE</a></h3>
+      <img src="https://img.shields.io/badge/status-concluído-2EA043?style=flat-square" alt="Concluído" />
+      <p>Estratégia completa de testes da loja EBAC Shop: web, API com validação de contrato, mobile iOS e performance, tudo rodando em pipeline no GitHub Actions.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+        <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
+        <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+        <img src="https://img.shields.io/badge/Sauce_Labs-3DDC91?style=flat-square&logo=saucelabs&logoColor=black" alt="Sauce Labs" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+      </p>
+      <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">Repositório</a> · <a href="https://mauriciofeoli.github.io/TCC-EBAC-QE/">Relatórios</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mauriciofeoli/promtest">PromTest</a></h3>
+      <img src="https://img.shields.io/badge/status-em_andamento-D29922?style=flat-square" alt="Em andamento" />
+      <p>Workspace de estudo de IA, DevOps, cloud e QA com um tutor de IA: 21 módulos, um projeto por módulo e cada sessão registrada no Git.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+      </p>
+      <a href="https://github.com/mauriciofeoli/promtest">Repositório</a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
