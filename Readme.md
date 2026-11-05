@@ -1,6 +1,6 @@
 <div align="center">
 
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=130&section=header&text=Maurício%20Oliveira&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=15" width="100%" alt="Cabeçalho de Maurício Oliveira" /> <p> <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=130&section=header&text=Maurício%20Oliveira&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=15" width="100%" alt="Cabeçalho de Maurício Oliveira" />
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-```text
+```ts
 const mauricio = {
   cargo:       'QA Engineer · consultor na NTT DATA',
   clientes:    ['Santander', 'Getnet'],
