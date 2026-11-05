@@ -45,49 +45,6 @@ describe('Maurício Oliveira', () => {
 
 <h2 align="center"><em>Rodando os testes</em></h2>
 
-```js
-// maurício.cy.js
-describe('Maurício Oliveira', () => {
-  it('começou no QA sem saber que era QA', () => {
-    // assistente administrativo na Linx & Stone, testando o app da Stone
-    // com o tablet na mão, no meio da fila de atendimento
-    cy.cargo('Assistente Administrativo').should('include', 'testes')
-  })
-
-  it('conhece a API por dentro antes de testá-la', () => {
-    cy.apigee().criadas().should('be.gte', 15)
-    cy.apigee().emProducao().should('be.gte', 30)
-  })
-
-  it('não deixa o Pix cair', () => {
-    cy.squad('Plataforma de Riscos').casosDeTeste().should('be.gte', 250)
-    cy.cypress().cenarios().should('be.gte', 50) // com geração de massa, no Jenkins
-  })
-
-  it('confere cada centavo do câmbio', () => {
-    cy.checkout('Crossborder/FX').its('IOF').should('be.calculadoCerto')
-  })
-
-  it('devolve tempo pro time', () => {
-    cy.automacao().horasEconomizadasPorSprint().should('be.gte', 36)
-  })
-
-  it('coloca IA pra escrever caso de teste', () => {
-    cy.agentesDeIA().should('gerar', 'casos de teste')
-  })
-})
-```
-
-```
-  Maurício Oliveira
-    ✓ começou no QA sem saber que era QA
-    ✓ conhece a API por dentro antes de testá-la
-    ✓ não deixa o Pix cair
-    ✓ confere cada centavo do câmbio
-    ✓ devolve tempo pro time
-    ✓ coloca IA pra escrever caso de teste
-
-  6 passing
 ```
 
 <br/>
