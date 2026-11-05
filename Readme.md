@@ -55,19 +55,6 @@ Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs,
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/GraphQL-000000?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
   <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
-  <img src="https://img.shields.io/badge/Zephyr-000000?style=for-the-badge" alt="Zephyr" />
-  <img src="https://img.shields.io/badge/ALM-000000?style=for-the-badge" alt="ALM" />
-  <img src="https://img.shields.io/badge/Octane-000000?style=for-the-badge" alt="Octane" />
-  <img src="https://img.shields.io/badge/PactumJS-000000?style=for-the-badge" alt="PactumJS" />
-  <img src="https://img.shields.io/badge/REST-000000?style=for-the-badge" alt="REST" />
-  <img src="https://img.shields.io/badge/SOAP-000000?style=for-the-badge" alt="SOAP" />
-  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge" alt="SQL" />
-  <img src="https://img.shields.io/badge/NoSQL-000000?style=for-the-badge" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/WCAG-000000?style=for-the-badge" alt="WCAG" />
-  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge" alt="MCP" />
-  <img src="https://img.shields.io/badge/Agentes_de_IA-000000?style=for-the-badge" alt="Agentes de IA" />
-  <img src="https://img.shields.io/badge/Scrum-000000?style=for-the-badge" alt="Scrum" />
-  <img src="https://img.shields.io/badge/Kanban-000000?style=for-the-badge" alt="Kanban" />
 </p>
 
 ## Projetos em destaque
