@@ -62,26 +62,26 @@ Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs,
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">TCC-EBAC-QE</a></h3>
-      <img src="https://img.shields.io/badge/status-concluído-2EA043?style=flat-square" alt="Concluído" />
+      <img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" />
       <p>Estratégia completa de testes da loja EBAC Shop: web, API com validação de contrato, mobile iOS e performance, tudo rodando em pipeline no GitHub Actions.</p>
       <p>
-        <img src="https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
-        <img src="https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
-        <img src="https://img.shields.io/badge/k6-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6" />
-        <img src="https://img.shields.io/badge/Sauce_Labs-3DDC91?style=flat-square&logo=saucelabs&logoColor=black" alt="Sauce Labs" />
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+        <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+        <img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
+        <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+        <img src="https://img.shields.io/badge/Sauce_Labs-000000?style=flat-square&logo=saucelabs&logoColor=white" alt="Sauce Labs" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       </p>
       <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">Repositório</a> · <a href="https://mauriciofeoli.github.io/TCC-EBAC-QE/">Relatórios</a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/mauriciofeoli/promtest">PromTest</a></h3>
-      <img src="https://img.shields.io/badge/status-em_andamento-D29922?style=flat-square" alt="Em andamento" />
+      <img src="https://img.shields.io/badge/status-em_andamento-000000?style=flat-square&labelColor=555555" alt="Em andamento" />
       <p>Workspace de estudo de IA, DevOps, cloud e QA com um tutor de IA: 21 módulos, um projeto por módulo e cada sessão registrada no Git.</p>
       <p>
-        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
+        <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
       </p>
       <a href="https://github.com/mauriciofeoli/promtest">Repositório</a>
     </td>
