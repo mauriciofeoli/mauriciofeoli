@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="center">👨‍💻 <em>Sobre mim</em></h2>
+<h2 align="center"><em>Sobre mim</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
@@ -32,16 +32,67 @@
 
 <br clear="right"/>
 
-<p align="center">
-   🏢 <em><b>QA Engineer na NTT DATA (Santander / Getnet)</b></em><br/>
-   💳 <em><b>Meios de pagamento: Pix, câmbio, IOF e adquirência</b></em><br/>
-   🤖 <em><b>~50 cenários automatizados com Cypress rodando no Jenkins e Bitbucket</b></em><br/>
-   🎓 <em><b>Engenharia de Qualidade de Software pela EBAC</b></em><br/>
-</p>
+```js
+describe('Maurício Oliveira', () => {
+  it('trabalha como QA na NTT DATA', ...)
+  it('testa meios de pagamento', ...)
+  it('automatiza o repetitivo', ...)
+  it('leva qualidade pro pipeline e a cloud', ...)
+})
+```
 
 <br/>
 
-<h2 align="center">💼 <em>Experiência</em></h2>
+<h2 align="center"><em>Rodando os testes</em></h2>
+
+```js
+// maurício.cy.js
+describe('Maurício Oliveira', () => {
+  it('começou no QA sem saber que era QA', () => {
+    // assistente administrativo na Linx & Stone, testando o app da Stone
+    // com o tablet na mão, no meio da fila de atendimento
+    cy.cargo('Assistente Administrativo').should('include', 'testes')
+  })
+
+  it('conhece a API por dentro antes de testá-la', () => {
+    cy.apigee().criadas().should('be.gte', 15)
+    cy.apigee().emProducao().should('be.gte', 30)
+  })
+
+  it('não deixa o Pix cair', () => {
+    cy.squad('Plataforma de Riscos').casosDeTeste().should('be.gte', 250)
+    cy.cypress().cenarios().should('be.gte', 50) // com geração de massa, no Jenkins
+  })
+
+  it('confere cada centavo do câmbio', () => {
+    cy.checkout('Crossborder/FX').its('IOF').should('be.calculadoCerto')
+  })
+
+  it('devolve tempo pro time', () => {
+    cy.automacao().horasEconomizadasPorSprint().should('be.gte', 36)
+  })
+
+  it('coloca IA pra escrever caso de teste', () => {
+    cy.agentesDeIA().should('gerar', 'casos de teste')
+  })
+})
+```
+
+```
+  Maurício Oliveira
+    ✓ começou no QA sem saber que era QA
+    ✓ conhece a API por dentro antes de testá-la
+    ✓ não deixa o Pix cair
+    ✓ confere cada centavo do câmbio
+    ✓ devolve tempo pro time
+    ✓ coloca IA pra escrever caso de teste
+
+  6 passing
+```
+
+<br/>
+
+<h2 align="center"><em>Experiência</em></h2>
 
 <p align="center">
   <b>NTT DATA</b> · QA Engineer · <em>ago/2025 – atual</em><br/>
@@ -61,7 +112,7 @@
 
 <br/>
 
-<h2 align="center">🛠️ <em>Tecnologias</em></h2>
+<h2 align="center"><em>Tecnologias</em></h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
@@ -88,19 +139,6 @@
 
 <p align="center">
   <code>REST</code> <code>SOAP</code> <code>GraphQL</code> <code>PactumJS</code> <code>Zephyr</code> <code>ALM</code> <code>Octane</code> <code>SQL</code> <code>WCAG</code> <code>MCP</code> <code>Agentes de IA</code> <code>Scrum</code> <code>Kanban</code>
-</p>
-
-<br/>
-
-<h2 align="center">📊 <em>Estatísticas</em></h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=dark&border_color=30363d&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&locale=pt-br" />
-  <img height="170" src="https://streak-stats.demolab.com?user=mauriciofeoli&theme=dark&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciofeoli&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20contribuições%20do%20Maurício" />
 </p>
 
 <br/>
