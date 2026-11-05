@@ -1,6 +1,6 @@
 <div align="center">
 
-##Olá, eu sou Mauricício  Oliveira!
+## Olá, eu sou Mauricício  Oliveira!
 </div>
 
 QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciativas para Santander e Getnet;
