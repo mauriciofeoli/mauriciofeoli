@@ -34,7 +34,7 @@ Atualmente aprofundo IA aplicada à qualidade: avaliação de sistemas com LLMs,
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress" />
-  <img src="assets/playwright-badge.svg" alt="Playwright" />
+  <img src="assets/playwright-bw.svg" alt="Playwright" />
   <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" alt="Appium" />
   <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   <img src="https://img.shields.io/badge/Pytest-000000?style=for-the-badge&logo=pytest&logoColor=white" alt="Pytest" />
