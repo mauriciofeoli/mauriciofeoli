@@ -3,9 +3,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=180&section=header&text=Maurício%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Oliveira" />
 
 <p>
-  <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
-  <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/github/followers/mauriciofeoli?label=Seguidores&style=flat-square&logo=github&color=181717" alt="Seguidores no GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
+  <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/github/followers/mauriciofeoli?label=Seguidores&style=flat-square&logo=github&logoColor=white&labelColor=000000&color=333333" alt="Seguidores no GitHub" /></a>
 </p>
 
 </div>
