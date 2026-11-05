@@ -10,12 +10,6 @@ QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciat
   <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-Contato-white?style=social&logo=microsoftoutlook" alt="E-mail" /></a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-000000?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="E-mail" /></a>
-  <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/github/followers/mauriciofeoli?label=Seguidores&style=flat-square&logo=github&logoColor=white&labelColor=000000&color=333333" alt="Seguidores no GitHub" /></a>
-</p>
-
 </div>
 
 ## Sobre mim
