@@ -1,12 +1,10 @@
-<br>
-
 ## Olá, eu sou Mauricício  Oliveira!
 
 </div>
 
 QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para Santander e Getnet.<br>
 <br>
-Web & API Test Automation | Contract & Messaging Testing | Payments | Cypress | Playwright | CI/CD | AI-Powered QA
+Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | Cypress | Playwright | CI/CD | IA aplicada a QA
 
 
 <p>
