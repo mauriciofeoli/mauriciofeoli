@@ -1,65 +1,112 @@
-<img src = "githubanner.JPG"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=180&section=header&text=Maurício%20Oliveira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=18" width="100%" alt="Cabeçalho de Maurício Oliveira" />
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/inng-benjamin-solano" target="_blank">
+  <a href="https://www.linkedin.com/in/mauriciofeoli/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codeforces.com/profile/Glorfindell?csrf_token=bcab48565089a48c886f5cdb2c9a4ff5" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <a href="mailto:mauriciofeoli@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
-  <a href="https://es.pinterest.com/Glorffindel/_pins/" target="_blank">
-    <img src="https://img.shields.io/badge/Pinterest-000000?style=for-the-badge&logo=pinterest&logoColor=white" />
+  <a href="https://github.com/mauriciofeoli/promtest" target="_blank">
+    <img src="https://img.shields.io/badge/PromTest-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://www.chess.com/member/glorffindel" target="_blank">
-    <img src="https://img.shields.io/badge/Chess.com-000000?style=for-the-badge&logo=chessdotcom&logoColor=white" />
+  <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE" target="_blank">
+    <img src="https://img.shields.io/badge/TCC_EBAC-000000?style=for-the-badge&logo=cypress&logoColor=white" />
   </a>
 </p>
 
-
 <br>
 
-<h2 align="center"> <img src="/imgs/title1.png" width="25"/> <em>About  me </em></h2>
+<h2 align="center">👨‍💻 <em>Sobre mim</em></h2>
 
 <img src="https://i.pinimg.com/originals/47/f7/1d/47f71d7e352da00032e4be75df84b5c5.gif" width="250" align="right" style="margin-left: 20px;" />
 <br/>
 
 <p>
-  Hello There! <em><b> I'm Benjamin Solano </b></em>, a Systems Engineer student. I enjoy learning new technologies and problem solving at Codeforces and Codechef. Now I'm working on develop my Quantum Software Engineer skills with Qiskit and Guppy, also, I'm learning about software architecture for hibryd systems (Classical - Quantum).
+  Olá! <em><b>Eu sou o Maurício Oliveira</b></em>, QA Engineer com mais de 4 anos de experiência em qualidade de software, automação de testes e APIs. Trabalho com meios de pagamento (Pix, câmbio, IOF e adquirência) e hoje atuo como consultor na NTT DATA em projetos para Santander e Getnet.
 </p>
 
+<p>
+  Gosto de automatizar o que é repetitivo e de levar qualidade para o pipeline e para a cloud. No momento estou aprofundando IA aplicada a QA: agentes de IA para geração de casos de teste, avaliação de sistemas com LLMs, MCP e Python para automação.
+</p>
 
-<br/>
+<br clear="right"/>
 
 <p align="center">
-   <img src="/imgs/img3.png" width="15"/>   <em><b> Studying at the National University of Costa Rica (UNA) </b></em> <br/>
-   <img src="/imgs/img4.png" width="15"/>   <em><b> Private tutor in C++ at the University </b></em><br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Competitor in the ICPC (2025 - 2026) </b></em><br/>
-   <img src="/imgs/img1.png" width="15"/>   <em><b> Quantum Mentor </b></em><br/>
+   🏢 <em><b>QA Engineer na NTT DATA (Santander / Getnet)</b></em><br/>
+   💳 <em><b>Meios de pagamento: Pix, câmbio, IOF e adquirência</b></em><br/>
+   🤖 <em><b>~50 cenários automatizados com Cypress rodando no Jenkins e Bitbucket</b></em><br/>
+   🎓 <em><b>Engenharia de Qualidade de Software pela EBAC</b></em><br/>
 </p>
 
 <br/>
-<br/>
-<h2 align="center"> <img src="/imgs/title2.png" width="25"/> <em> Technologies </em> </h2>
+
+<h2 align="center">💼 <em>Experiência</em></h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/R-000000?style=for-the-badge&logo=r&logoColor=white" />
+  <b>NTT DATA</b> · QA Engineer · <em>ago/2025 – atual</em><br/>
+  <sub>UAT do projeto Crossborder/FX (web checkout, taxas de câmbio e IOF) · 9 meses no Pix da Getnet (squad Plataforma de Riscos)<br/>
+  250+ casos de teste no Pix · 150+ no FX · ~50 cenários Cypress com geração de massa · +36 horas economizadas por sprint · agentes de IA para criação de casos de teste</sub>
+</p>
+
+<p align="center">
+  <b>Spread Tecnologia</b> · Analista de QA · <em>jan/2024 – jul/2025</em><br/>
+  <sub>Qualidade para o cliente Claro Brasil (telecom), com dados sensíveis de usuários · 100+ APIs e microsserviços testados</sub>
+</p>
+
+<p align="center">
+  <b>Spread Tecnologia</b> · Analista de Integração · <em>fev/2023 – jan/2024</em><br/>
+  <sub>APIs REST e SOAP no Apigee · 15+ APIs criadas e 30+ mantidas em produção</sub>
+</p>
+
+<br/>
+
+<h2 align="center">🛠️ <em>Tecnologias</em></h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-000000?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/Appium-000000?style=for-the-badge&logo=appium&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/SoapUI-000000?style=for-the-badge&logo=soapui&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-000000?style=for-the-badge&logo=k6&logoColor=white" />
+  <img src="https://img.shields.io/badge/JMeter-000000?style=for-the-badge&logo=apachejmeter&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-000000?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-000000?style=for-the-badge&logo=ruby&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apigee-000000?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-000000?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-000000?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-000000?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge&logo=claude&logoColor=white" />
 </p>
+
+<p align="center">
+  <code>REST</code> <code>SOAP</code> <code>GraphQL</code> <code>PactumJS</code> <code>Zephyr</code> <code>ALM</code> <code>Octane</code> <code>SQL</code> <code>WCAG</code> <code>MCP</code> <code>Agentes de IA</code> <code>Scrum</code> <code>Kanban</code>
+</p>
+
+<br/>
+
+<h2 align="center">📊 <em>Estatísticas</em></h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciofeoli&show_icons=true&theme=dark&border_color=30363d&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true&locale=pt-br" />
+  <img height="170" src="https://streak-stats.demolab.com?user=mauriciofeoli&theme=dark&background=0d1117&border=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&locale=pt_BR" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mauriciofeoli&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&custom_title=Gráfico%20de%20contribuições%20do%20Maurício" />
+</p>
+
+<br/>
+
+<div align="center">
+
+*Jesus vive* | *Qualidade não é um ato, é um hábito.*
 
 </div>
-
-
-
