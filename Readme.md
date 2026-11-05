@@ -1,6 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:9ca3af&height=130&section=header&text=Maurício%20Oliveira&fontSize=34&fontColor=ffffff&fontAlignY=38&desc=QA%20Engineer%20%C2%B7%20Automa%C3%A7%C3%A3o%20%C2%B7%20CI%2FCD%20%C2%B7%20IA%20aplicada%20%C3%A0%20Qualidade&descAlignY=60&descSize=15" width="100%" alt="Cabeçalho de Maurício Oliveira" />
+Olá, eu sou Mauricício  Oliveira!
+</div>
+
+QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciativas para Santander e Getnet;
+
+<p>
+  <img src="https://img.shields.io/badge/mauriciofeoli-000000?style=flat-square" alt="mauriciofeoli" />
+  <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-white?style=social&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/badge/GitHub-Follow-white?style=social&logo=github" alt="GitHub" /></a>
+  <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-Contato-white?style=social&logo=microsoftoutlook" alt="E-mail" /></a>
+</p>
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -26,8 +36,6 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
 });
 ```
 
-
-QA Engineer de consultoria na [NTT DATA](https://www.nttdata.com/br), em iniciativas para Santander e Getnet;
 
 * Automação web, mobile e API: `Cypress`, `Playwright`, `Appium`, `Postman`, `SoapUI`
 * API e contrato: `REST`, `SOAP`, `PactumJS`, mensageria com `RabbitMQ`
