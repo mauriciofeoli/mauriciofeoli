@@ -12,10 +12,16 @@
 
 ## Sobre mim
 
-QA Engineer com mais de 4 anos de experiência em automação de testes e qualidade de software, atuando como consultor na NTT DATA em iniciativas para Santander e Getnet.
-
 ```text
-Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
+const mauricio = {
+  cargo:       'QA Engineer · consultor na NTT DATA',
+  clientes:    ['Santander', 'Getnet'],
+  experiencia: '4+ anos em automação de testes e qualidade de software',
+};
+
+test('qualidade = prevenção + observabilidade + aprendizado contínuo', async () => {
+  expect(mauricio).toBeDefined();
+});
 ```
 
 - Automação web, mobile e de APIs com **Cypress**, **Playwright**, **Appium**, **Postman** e **SoapUI**
