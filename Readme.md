@@ -49,18 +49,6 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
   <img src="assets/badges/kanban.svg" alt="Kanban" />
 </p>
 
-## Projetos em destaque
-
-### Formação EBAC
-
-- **[TCC-EBAC-QE](https://github.com/mauriciofeoli/TCC-EBAC-QE)** <img src="https://img.shields.io/badge/concluído-555555?style=flat-square" alt="Concluído" /> · [relatórios](https://mauriciofeoli.github.io/TCC-EBAC-QE/)<br>
-  Estratégia de testes da loja EBAC Shop: web, API com contrato, mobile iOS e performance em pipeline no GitHub Actions.<br>
-  <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> <img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" alt="Appium" /> <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/Sauce_Labs-000000?style=flat-square&logo=saucelabs&logoColor=white" alt="Sauce Labs" /> <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-
-- **[Exercícios EBAC](https://github.com/mauriciofeoli/exercicios_ebac)** <img src="https://img.shields.io/badge/concluído-555555?style=flat-square" alt="Concluído" /><br>
-  Exercícios do curso organizados por área: UI/E2E, API, mobile, performance e banco de dados, com CI.<br>
-  <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> <img src="https://img.shields.io/badge/WebdriverIO-000000?style=flat-square&logo=webdriverio&logoColor=white" alt="WebdriverIO" /> <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" /> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-
 <div align="center">
 
 *Jesus vive* | *Qualidade não é um ato, é um hábito.*
