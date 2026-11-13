@@ -65,16 +65,6 @@ O que mais gosto é automatizar: no Pix, automatizei cerca de 50 cenários com C
   Exercícios do curso organizados por área: UI/E2E, API, mobile, performance e banco de dados, com CI.<br>
   <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> <img src="https://img.shields.io/badge/WebdriverIO-000000?style=flat-square&logo=webdriverio&logoColor=white" alt="WebdriverIO" /> <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" /> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
-### Projetos pessoais
-
-- **[TestOpsLab](https://github.com/mauriciofeoli/testopslab)** <img src="https://img.shields.io/badge/em_andamento-555555?style=flat-square" alt="Em andamento" /><br>
-  Laboratório de estudo SDET com cultura DevOps e IA aplicada a testes: 13 módulos em TypeScript, um projeto por módulo.<br>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="assets/playwright-flat.svg" alt="Playwright" /> <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
-
-- **[Pre-Launch Security](https://github.com/mauriciofeoli/pre-launch-security)** <img src="https://img.shields.io/badge/concluído-555555?style=flat-square" alt="Concluído" /><br>
-  Skill para o Claude com 30 verificações de segurança e qualidade antes de colocar um app no ar.<br>
-  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
-
 <div align="center">
 
 *Jesus vive* | *Qualidade não é um ato, é um hábito.*
