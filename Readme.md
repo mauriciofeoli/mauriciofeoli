@@ -14,20 +14,6 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
 
 ## Sobre mim
 
-
-```js
-const mauricio = {
-  cargo:       'QA Engineer · consultor na NTT DATA',
-  clientes:    ['Santander', 'Getnet'],
-  experiencia: '3+ anos em tecnologia, com foco em qualidade de software',
-};
-
-test('qualidade = prevenção + observabilidade + aprendizado contínuo', async () => {
-  expect(mauricio).toBeDefined();
-});
-```
-
-
 * Automação web, mobile e API: `Cypress`, `Playwright`, `Appium`, `Postman`, `SoapUI`
 * API e contrato: `REST`, `SOAP`, `PactumJS`, mensageria com `RabbitMQ`
 * CI/CD: `Jenkins`, `Bitbucket Pipelines`, `GitHub Actions`, `Docker`
