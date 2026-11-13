@@ -66,41 +66,25 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
 
 ## Projetos em destaque
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">TCC-EBAC-QE</a></h3>
-      <p>Estratégia de testes da EBAC Shop: web, API com contrato, mobile e performance em pipeline. <a href="https://mauriciofeoli.github.io/TCC-EBAC-QE/">Relatórios</a></p>
-      <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
-      <img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" alt="Appium" />
-      <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/exercicios_ebac">Exercícios EBAC</a></h3>
-      <p>Exercícios do curso organizados por área: UI, API, mobile, performance e dados.</p>
-      <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
-      <img src="https://img.shields.io/badge/WebdriverIO-000000?style=flat-square&logo=webdriverio&logoColor=white" alt="WebdriverIO" />
-      <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" />
-      <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/testopslab">TestOpsLab</a></h3>
-      <p>Laboratório de estudo SDET com DevOps e IA aplicada a testes. <i>Em andamento.</i></p>
-      <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
-      <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/pre-launch-security">Pre-Launch Security</a></h3>
-      <p>Skill para o Claude com 30 verificações de segurança antes de publicar um app.</p>
-      <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
-      <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-    </td>
-  </tr>
-</table>
+- **[TCC-EBAC-QE](https://github.com/mauriciofeoli/TCC-EBAC-QE)** &nbsp;<img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" /><br>
+  Estratégia completa de testes da loja EBAC Shop: web, API com validação de contrato, mobile iOS e performance, tudo rodando em pipeline no GitHub Actions.<br>
+  <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> <img src="https://img.shields.io/badge/Appium-000000?style=flat-square&logo=appium&logoColor=white" alt="Appium" /> <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/Sauce_Labs-000000?style=flat-square&logo=saucelabs&logoColor=white" alt="Sauce Labs" /> <img src="https://img.shields.io/badge/GitHub_Actions-000000?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /><br>
+  [Repositório](https://github.com/mauriciofeoli/TCC-EBAC-QE) · [Relatórios](https://mauriciofeoli.github.io/TCC-EBAC-QE/)
+
+- **[Exercícios EBAC](https://github.com/mauriciofeoli/exercicios_ebac)** &nbsp;<img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" /><br>
+  Todos os exercícios do curso num só repositório, organizados por área: UI/E2E, API, mobile, performance e banco de dados, com CI no GitHub Actions e Jenkins.<br>
+  <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" /> <img src="https://img.shields.io/badge/WebdriverIO-000000?style=flat-square&logo=webdriverio&logoColor=white" alt="WebdriverIO" /> <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" /> <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" /> <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" /><br>
+  [Repositório](https://github.com/mauriciofeoli/exercicios_ebac)
+
+- **[TestOpsLab](https://github.com/mauriciofeoli/testopslab)** &nbsp;<img src="https://img.shields.io/badge/status-em_andamento-000000?style=flat-square&labelColor=555555" alt="Em andamento" /><br>
+  Laboratório de estudo de automação de testes (SDET) com cultura DevOps e IA aplicada a testes, com um tutor de IA: 13 módulos em TypeScript, um projeto por módulo e cada sessão registrada no Git.<br>
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" /> <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" /><br>
+  [Repositório](https://github.com/mauriciofeoli/testopslab)
+
+- **[Pre-Launch Security](https://github.com/mauriciofeoli/pre-launch-security)** &nbsp;<img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" /><br>
+  Skill para o Claude com 30 verificações de segurança e qualidade antes de colocar um app no ar: aponta o problema no código, explica o risco e sugere a correção.<br>
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude" /> <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" /> <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" /><br>
+  [Repositório](https://github.com/mauriciofeoli/pre-launch-security)
 
 <div align="center">
 
