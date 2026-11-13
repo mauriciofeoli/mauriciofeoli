@@ -1,6 +1,4 @@
-## Olá, eu sou Mauricio  Oliveira!
-
-</div>
+## Olá, eu sou Maurício Oliveira!
 
 QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para Santander e Getnet.<br>
 <br>
@@ -11,19 +9,17 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
   <a href="https://github.com/mauriciofeoli"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:mauriciofeoli@outlook.com"><img src="https://img.shields.io/badge/E--mail-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIgNGgyMGEyIDIgMCAwIDEgMiAydjEyYTIgMiAwIDAgMS0yIDJIMmEyIDIgMCAwIDEtMi0yVjZhMiAyIDAgMCAxIDItMnptMCAydi40bDEwIDYuMjVMMjIgNi40VjZIMnptMjAgMi43NS0xMCA2LjI1LTEwLTYuMjVWMThoMjBWOC43NXoiLz48L3N2Zz4%3D" alt="E-mail" /></a>
+  <a href="https://mauriciofeoli.github.io/wiki/"><img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfólio" /></a>
 </p>
-
-</div>
 
 ## Sobre mim
 
 
-```text
-Qualidade de software  =  prevenção + observabilidade + aprendizado contínuo
+```js
 const mauricio = {
   cargo:       'QA Engineer · consultor na NTT DATA',
   clientes:    ['Santander', 'Getnet'],
-  experiencia: '4+ anos em automação de testes e qualidade de software',
+  experiencia: '3+ anos em tecnologia, com foco em qualidade de software',
 };
 
 test('qualidade = prevenção + observabilidade + aprendizado contínuo', async () => {
@@ -86,7 +82,23 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
       <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">Repositório</a> · <a href="https://mauriciofeoli.github.io/TCC-EBAC-QE/">Relatórios</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/aiopslab">TestOpsLab</a></h3>
+      <h3><a href="https://github.com/mauriciofeoli/exercicios_ebac">Exercícios EBAC</a></h3>
+      <img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" />
+      <p>Todos os exercícios do curso num só repositório, organizados por área: UI/E2E, API, mobile, performance e banco de dados, com CI no GitHub Actions e Jenkins.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Cypress-000000?style=flat-square&logo=cypress&logoColor=white" alt="Cypress" />
+        <img src="https://img.shields.io/badge/WebdriverIO-000000?style=flat-square&logo=webdriverio&logoColor=white" alt="WebdriverIO" />
+        <img src="https://img.shields.io/badge/k6-000000?style=flat-square&logo=k6&logoColor=white" alt="k6" />
+        <img src="https://img.shields.io/badge/JMeter-000000?style=flat-square&logo=apachejmeter&logoColor=white" alt="JMeter" />
+        <img src="https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+      </p>
+      <a href="https://github.com/mauriciofeoli/exercicios_ebac">Repositório</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mauriciofeoli/testopslab">TestOpsLab</a></h3>
       <img src="https://img.shields.io/badge/status-em_andamento-000000?style=flat-square&labelColor=555555" alt="Em andamento" />
       <p>Laboratório de estudo de automação de testes (SDET) com cultura DevOps e IA aplicada a testes, com um tutor de IA: 13 módulos em TypeScript, um projeto por módulo e cada sessão registrada no Git.</p>
       <p>
@@ -96,7 +108,18 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
         <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
       </p>
-      <a href="https://github.com/mauriciofeoli/aiopslab">Repositório</a>
+      <a href="https://github.com/mauriciofeoli/testopslab">Repositório</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/mauriciofeoli/pre-launch-security">Pre-Launch Security</a></h3>
+      <img src="https://img.shields.io/badge/status-concluído-000000?style=flat-square&labelColor=555555" alt="Concluído" />
+      <p>Skill para o Claude com 30 verificações de segurança e qualidade antes de colocar um app no ar: aponta o problema no código, explica o risco e sugere a correção.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Claude-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+        <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+      </p>
+      <a href="https://github.com/mauriciofeoli/pre-launch-security">Repositório</a>
     </td>
   </tr>
 </table>
