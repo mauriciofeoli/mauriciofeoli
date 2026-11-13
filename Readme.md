@@ -14,6 +14,10 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
 
 ## Sobre mim
 
+Sou QA Engineer na NTT DATA, atuando em projetos da Getnet e do Santander. Estou há mais de 3 anos em tecnologia: comecei com integração de APIs no Apigee e migrei para qualidade de software, passando por telecom e meios de pagamento (Pix, câmbio e IOF).
+
+O que mais gosto é automatizar: no Pix, automatizei cerca de 50 cenários com Cypress rodando no Jenkins. Hoje estudo TypeScript, Playwright, CI/CD e IA aplicada a testes.
+
 * Automação web, mobile e API: `Cypress`, `Playwright`, `Appium`, `Postman`, `SoapUI`
 * API e contrato: `REST`, `SOAP`, `PactumJS`, mensageria com `RabbitMQ`
 * CI/CD: `Jenkins`, `Bitbucket Pipelines`, `GitHub Actions`, `Docker`
