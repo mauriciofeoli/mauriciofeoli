@@ -27,7 +27,6 @@ O que mais gosto é automatizar: no Pix, automatizei cerca de 50 cenários com C
 * Ágil: `Scrum`, `Kanban`
 * Domínio: meios de pagamento (adquirência, Pix, câmbio e IOF) e telecom
 * Formação: Engenharia de Qualidade de Software pela EBAC
-* Estudando: automação de testes com TypeScript e Playwright, CI/CD e IA aplicada a testes
 
 ## Stack
 
