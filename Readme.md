@@ -39,9 +39,15 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
   <img src="https://img.shields.io/badge/Apigee-000000?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Apigee" />
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+  <img src="assets/badges/soapui.svg" alt="SoapUI" />
+  <img src="assets/badges/pactumjs.svg" alt="PactumJS" />
+  <img src="assets/badges/zephyr.svg" alt="Zephyr" />
+  <img src="assets/badges/alm.svg" alt="ALM" />
+  <img src="assets/badges/octane.svg" alt="Octane" />
+  <img src="assets/badges/wcag.svg" alt="WCAG" />
+  <img src="assets/badges/scrum.svg" alt="Scrum" />
+  <img src="assets/badges/kanban.svg" alt="Kanban" />
 </p>
-
-<p align="center"><sub>Também: SoapUI · PactumJS · Zephyr · ALM · Octane · WCAG · Scrum · Kanban</sub></p>
 
 ## Projetos em destaque
 
