@@ -41,7 +41,7 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
 * Ágil: `Scrum`, `Kanban`
 * Domínio: meios de pagamento (adquirência, Pix, câmbio e IOF) e telecom
 * Formação: Engenharia de Qualidade de Software pela EBAC
-* Estudando: IA aplicada à qualidade (LLMs, agentes, multiagentes, MCP) e Python
+* Estudando: automação de testes com TypeScript e Playwright, CI/CD e IA aplicada a testes
 
 ## Stack
 
