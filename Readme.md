@@ -13,7 +13,7 @@ QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para 
 <br>
 Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | Cypress | Playwright | CI/CD | IA aplicada a QA
 
-* Domínio: meios de pagamento (adquirência, Pix, câmbio e IOF) e telecom
+* Domínio: meios de pagamento (adquirência, Pix e crossborder) e telecom
 * Formação: Engenharia de Qualidade de Software pela EBAC
 
 ## Stack
