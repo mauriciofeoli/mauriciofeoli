@@ -13,6 +13,8 @@ QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para 
 <br>
 Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | Cypress | Playwright | CI/CD | IA aplicada a QA
 
+Agora estou estudando IA aplicada à qualidade e somando DevOps e cloud à minha experiência em QA. Registro essa evolução no [TestOpsLab](https://github.com/mauriciofeoli/testopslab), meu projeto de estudos aberto no GitHub.
+
 * Domínio: meios de pagamento (adquirência, Pix e crossborder) e telecom
 * Formação: Engenharia de Qualidade de Software pela EBAC
 
