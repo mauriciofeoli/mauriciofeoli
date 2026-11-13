@@ -13,13 +13,6 @@ QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para 
 <br>
 Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | Cypress | Playwright | CI/CD | IA aplicada a QA
 
-* Automação web, mobile e API: `Cypress`, `Playwright`, `Appium`, `Postman`, `SoapUI`
-* API e contrato: `REST`, `SOAP`, `PactumJS`, mensageria com `RabbitMQ`
-* CI/CD: `Jenkins`, `Bitbucket Pipelines`, `GitHub Actions`, `Docker`
-* Integração: `Apigee`, `Swagger/OpenAPI`
-* Gestão de testes: `Jira`, `Zephyr`, `ALM`, `Octane`
-* Performance e acessibilidade: `JMeter`, `k6`, `WCAG`
-* Ágil: `Scrum`, `Kanban`
 * Domínio: meios de pagamento (adquirência, Pix, câmbio e IOF) e telecom
 * Formação: Engenharia de Qualidade de Software pela EBAC
 
@@ -47,6 +40,8 @@ Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | C
   <img src="https://img.shields.io/badge/Swagger-000000?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" />
   <img src="https://img.shields.io/badge/Jira-000000?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
+
+<p align="center"><sub>Também: SoapUI · PactumJS · Zephyr · ALM · Octane · WCAG · Scrum · Kanban</sub></p>
 
 ## Projetos em destaque
 
