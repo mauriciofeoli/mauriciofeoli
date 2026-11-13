@@ -86,12 +86,13 @@ test('qualidade = prevenção + observabilidade + aprendizado contínuo', async 
       <a href="https://github.com/mauriciofeoli/TCC-EBAC-QE">Repositório</a> · <a href="https://mauriciofeoli.github.io/TCC-EBAC-QE/">Relatórios</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/mauriciofeoli/aiopslab">AIOpsLab</a></h3>
+      <h3><a href="https://github.com/mauriciofeoli/aiopslab">TestOpsLab</a></h3>
       <img src="https://img.shields.io/badge/status-em_andamento-000000?style=flat-square&labelColor=555555" alt="Em andamento" />
-      <p>Laboratório de estudo de DevOps e cloud com IA aplicada à operação, com um tutor de IA: 14 módulos, um projeto por módulo e cada sessão registrada no Git.</p>
+      <p>Laboratório de estudo de automação de testes (SDET) com cultura DevOps e IA aplicada a testes, com um tutor de IA: 13 módulos em TypeScript, um projeto por módulo e cada sessão registrada no Git.</p>
       <p>
         <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Playwright-000000?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
         <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Obsidian-000000?style=flat-square&logo=obsidian&logoColor=white" alt="Obsidian" />
       </p>
