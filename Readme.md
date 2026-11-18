@@ -1,4 +1,4 @@
-## Olá, eu sou Maurício Oliveira!
+## Hi, I'm Maurício Oliveira!
 
 <p>
   <a href="https://www.linkedin.com/in/mauriciofeoli/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B" alt="LinkedIn" /></a>
@@ -7,16 +7,16 @@
   <a href="https://mauriciofeoli.github.io/wiki/"><img src="assets/badges/portfolio.svg" alt="Portfólio" /></a>
 </p>
 
-## Sobre mim
+## About me
 
-QA Engineer na [NTT DATA](https://www.nttdata.com/br), atuando em projetos para Santander e Getnet.<br>
+QA Engineer at [NTT DATA](https://www.nttdata.com/br), working on projects for Santander and Getnet.<br>
 <br>
-Automação Web & API | Testes de Contrato e Mensageria | Meios de Pagamento | Cypress | Playwright | CI/CD | IA aplicada a QA
+Web & API Automation | Contract & Messaging Testing | Payments | Cypress | Playwright | CI/CD | AI applied to QA
 
-Agora estou montando meu caminho para SDET.
+Currently building my path toward SDET.
 
-* Domínio: meios de pagamento (adquirência, Pix e crossborder) e telecom
-* Formação: Engenharia de Qualidade de Software pela EBAC
+* Domain: payments (acquiring, Pix and cross-border) and telecom
+* Education: Software Quality Engineering at EBAC
 
 ## Stack
 
@@ -53,6 +53,6 @@ Agora estou montando meu caminho para SDET.
 
 <div align="center">
 
-*Jesus vive* | *Qualidade não é um ato, é um hábito.*
+*Jesus lives* | *Quality is not an act, it's a habit.*
 
 </div>
